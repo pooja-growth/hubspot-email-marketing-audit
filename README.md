@@ -81,3 +81,17 @@ This sample project demonstrates my approach to:
 - Actionable marketing recommendations
 
 **Note:** All campaign figures in this repository are fictional and are included for demonstration purposes only.
+
+## Calculated Performance Results
+
+| Campaign | Open Rate | Click-Through Rate | Conversion Rate per Delivered Email |
+|---|---:|---:|---:|
+| Product Update | 40% | 4% | 0.50% |
+| Educational Newsletter | 35% | 4% | 0.50% |
+| Webinar Invitation | 40% | 6% | 1.21% |
+
+### Key Finding
+
+In this fictional dataset, the Webinar Invitation achieved the highest click-through rate (6%) and delivered-email conversion rate (1.21%). This suggests that its audience, offer, or call to action may be worth investigating further.
+
+*All figures are fictional and for demonstration purposes only.*
